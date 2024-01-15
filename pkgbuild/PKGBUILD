@@ -1,7 +1,7 @@
-# Maintainer: Barnabé di Kartola <barnabedikartola@gmail.com>
+# Maintainer: Tales A. Mendonça <talesam@gmail.com>
 
-pkgname=biglinux-package-template
-pkgdesc="Package template for biglinux"
+pkgname=biglinux-dde-base
+pkgdesc="DDE shell library"
 # depends=('')
 # makedepends=('')
 # conflicts=('')
